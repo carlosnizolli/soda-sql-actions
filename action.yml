@@ -1,0 +1,6 @@
+
+name: 'Soda SQL'
+description: 'Run Soda SQL tests'
+runs:
+  using: 'docker'
+  image: docker://nizolli/soda:v1.0
